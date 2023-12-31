@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="Label" type="Label"]
+margin_left = 40.0
+margin_top = -295.0
+margin_right = 80.0
+margin_bottom = -281.0
+text = "20,21"
